@@ -1,0 +1,78 @@
+acedrg
+aimless
+ample
+arcimboldo
+blend
+cairo
+ccif
+ccp4-base
+ccp4dispatchers
+ccp4i
+ccp4i2
+ccp4-lib-data
+ccp4mapwish
+ccp4mg
+ccp4-progs
+ccp4srs
+ccp4srs-data
+ccp4srs-python
+cctbx-phaser-dials-2015-12
+chooch
+cprodrg
+crank
+crank2
+diff-image ( GPLed, autoconf )
+dimple
+dm21
+edstats
+edstats
+examples
+feckless
+gesamt
+hklfile
+hklview
+hmmer (should be part of the automatic packages, but it is not)
+imosflm
+jligand
+jpeg-8d
+jsrview
+jwc-c
+jwc-f
+libg
+libgnurx (glibc regex, extracted as its own library)
+lorestr
+lxml
+mafft-7.182-without-extensions
+molrep
+monomers
+mosflm
+mrbump
+pdb-extract
+pisa
+Pixie ( LGPL )
+pointless
+prelyscar
+privateer
+procheck
+prosmart
+qtlibs ( not quite sure what these libs are and what relation they have to the Qt libraries)
+qtrview
+rapper_ccp4
+Raster3D (http://skuld.bmsc.washington.edu/raster3d/)
+rdkit ( http://www.rdkit.org/docs/index.html )
+reduce
+reference-structures ( data )
+refmac5.8 ( ccp4 )
+rotgen ( ccp4 )
+scala ( ccp4 )
+sfcheck ( ccp4 )
+spicker ( ccp4 )
+ssm ( EBI )
+tgutils
+theseus_3.3.0 ( http://www.theseus3d.org/ )
+tiff
+viewhkl
+wxPython-src ( why -src ? )
+xdl-view ( ccp4 )
+xssp
+

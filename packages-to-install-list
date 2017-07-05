@@ -9,8 +9,7 @@ clipper-progs
 clipper-python
 clipper-devel
 clustal
-cwmake
-coot
+cmake
 ecdsa
 fftw
 freeglut
@@ -49,7 +48,7 @@ openssl
 pango
 pangox-compat
 paramiko
-python-pillow (Pillow)
+python-pillow
 pip
 pixman
 pkgconf
@@ -60,15 +59,16 @@ pycrypto
 pygobject
 pygtk
 pyparsing
-PyQt-x11-gpl ( PyQt4.x86_64 )
-Python
+PyQt-x11-gpl
+python
 python-dateutil
 readline
 scipy
-setuptools (questionable if needed)
+setuptools
 sip
 sqlite-autoconf
 suds
 tcltk++
 wxPython
 zlib
+
